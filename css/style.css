@@ -14,12 +14,9 @@ Grey dark 1: #333
 Grey dark 2: #777
 Grey dark 3: #999 
 */
-
 * {
-    padding: 0;
-    margin: 0;
-}
+  padding: 0;
+  margin: 0; }
 
 body {
-    background-color: #eb2f64;
-}
+  background-color: #eb2f64; }
